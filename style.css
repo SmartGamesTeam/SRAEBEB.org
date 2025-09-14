@@ -1,0 +1,18 @@
+body{
+	background-image: url("https://i.ytimg.com/vi/odDCqjhxDwY/maxresdefault.jpg");
+}
+h1{
+	font-family: Segoe UI;
+	color: darkred;
+}
+h3{
+	font-size: 50px;
+	color: darkred;
+}
+a{
+	font-size: 50px;
+	color: #1A1A1A;
+}
+p{
+	color: darkred;
+}
